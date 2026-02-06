@@ -26,11 +26,10 @@
 
 ## 📸 Mi Resultado
 
-> **Nota para el alumno:** Para que tu imagen se vea aquí, asegúrate de que el nombre del archivo coincida.//
+> **Nota para el alumno:** Para que tu imagen se vea aquí, asegúrate de que el nombre del archivo coincida.
 
-Resultado.png
+![Descripción](Resultado.png)
 
----
 
 ## 📊 Rúbrica de Evaluación
 
